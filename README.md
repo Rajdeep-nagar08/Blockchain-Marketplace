@@ -11,7 +11,7 @@ Install these prerequisites :-
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/Rajdeep-nagar08/Decentragram`
+`git clone https://github.com/Rajdeep-nagar08/RD-Blockchain-Marketplace/tree/master`
 
 ## Step 2. Install dependencies
 ```
